@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Braga \u0026 Botassi",
+  "description": "Braga \u0026 Botassi - Curated Fragrance Retailer",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -73,12 +73,12 @@ export const Navbar: React.FC<NavbarProps> = ({ activeTab, onTabChange }) => {
               color="#b68a5a"
               className="transition-transform duration-500 group-hover:scale-105"
             />
-            <div className="flex flex-col">
-              <span className="font-display font-semibold text-lg md:text-xl tracking-widest text-brand-primary uppercase">
+            <div className="flex flex-col items-center text-center">
+              <span className="font-display font-semibold text-xl md:text-2xl tracking-widest text-brand-primary uppercase">
                 Braga <span className="font-display font-normal italic lowercase normal-case text-brand-primary mx-0.5">&amp;</span> Botassi
               </span>
               <span className="text-[10px] tracking-[0.25em] text-brand-secondary uppercase font-medium -mt-1">
-                Perfumes
+                Perfume
               </span>
             </div>
           </div>
